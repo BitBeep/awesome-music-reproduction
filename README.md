@@ -6,21 +6,21 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 <p align="center"><img width="50%" src="assets/musical-note.svg" /></p>
 
 ### INDEX
- - Videos
-	 - Computer hardware
-	 - Robots playing music
-	 - Tesla coil
-	 - Other strange hardware
-	 - Compilation
-- Opensource projects
+ - [Videos](#videos)
+	 - [Computer hardware](#computer-hardware)
+	 - [Robots playing music](#robots-playing-music)
+	 - [Tesla coil](#tesla-coil)
+	 - [Other strange hardware](#other-strange-hardware)
+	 - [Compilation](#compilation)
+- [Opensource projects](#opensource-projects)
 
 # Videos
 
 ## Computer hardware
 
 - [ Axel F  | Floppy drives and hard disks](https://www.youtube.com/watch?v=7EwU-juNl1M)
--  [ Ghostbusters | Floppy drives and hard disks](https://www.youtube.com/watch?v=0XhxUT9vWCg)  
--  [ Star Wars Vader's Theme | Floppy drives](https://www.youtube.com/watch?v=LdgzsF_O7oI)
+- [ Ghostbusters | Floppy drives and hard disks](https://www.youtube.com/watch?v=0XhxUT9vWCg)  
+- [ Star Wars Vader's Theme | Floppy drives](https://www.youtube.com/watch?v=LdgzsF_O7oI)
 - [ Tetris | Floppy drives and hard disks](https://www.youtube.com/watch?v=8fh1CIupVXU)
 
 ## Robots playing music
