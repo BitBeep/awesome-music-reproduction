@@ -1,7 +1,9 @@
 # Awesome Music [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome list of awesome music videos made with tech!
+Awesome list of awesome music videos and projects made with tech!
 Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robotic hands playing real instruments, musical roads and everything that... sounds good!
+
+<p align="center"><img width="50%" src="assets/musical-note.svg" /></p>
 
 ### INDEX
  - Videos
