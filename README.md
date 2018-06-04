@@ -45,7 +45,7 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 - [The Final Countdown | Two Tesla Coils](https://www.youtube.com/watch?v=pyTC0Ggufak)
 - [William tell Overture | Two Tesla Coils](https://www.youtube.com/watch?v=1xVh_IgYtuA)
 
- 
+
 ## Other strange hardware
 
 - [Super Mario Theme | Four calculators](https://www.youtube.com/watch?v=vCWJoGSmrM8)
@@ -58,5 +58,7 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 - [Instane robots playing music](https://www.youtube.com/watch?v=rwh_acqT6J0)
 
 # Opensource projects
+
+- [AI Piano Duet](https://www.youtube.com/watch?time_continue=91&v=0ZE1bfPtvZo)
 
 Nothing to show for now, contribute!
