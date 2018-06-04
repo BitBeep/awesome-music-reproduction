@@ -22,6 +22,7 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 - [ Ghostbusters | Floppy drives and hard disks](https://www.youtube.com/watch?v=0XhxUT9vWCg)  
 - [ Star Wars Vader's Theme | Floppy drives](https://www.youtube.com/watch?v=LdgzsF_O7oI)
 - [ Tetris | Floppy drives and hard disks](https://www.youtube.com/watch?v=8fh1CIupVXU)
+- [ Seven Nation Army | Hardware Orchestra](https://www.youtube.com/watch?v=FH9yt8qTACw)
 
 ## Robots playing music
 - [Little Talks | Lego Mindstorm Guitar Cover](https://www.youtube.com/watch?v=cXgB3lIvPHI)
@@ -32,6 +33,10 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 - [Pomp and circumstance | Toyota robot violin solo](https://www.youtube.com/watch?v=yhGg6WhmBJI)
 - [Solo: battery | three robotic arms](https://www.youtube.com/watch?v=qPT0TNj-YRk)
 - [Robotic arms band](https://www.youtube.com/watch?v=bAdqazixuRY)
+- [Compressorhead Blitzkrieg Bop](https://youtu.be/WqE9zIp0Muk)
+- [Robot playing the guitar](https://www.youtube.com/watch?v=bAdqazixuRY)
+- [Battle of the Robot Music Bands: Z Machines vs Compressorhead] (https://www.youtube.com/watch?v=h0DyYLLf3m8)
+
 
 ## Tesla coil
 
@@ -46,6 +51,7 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 - [William tell Overture | Two Tesla Coils](https://www.youtube.com/watch?v=1xVh_IgYtuA)
 - [Star Wars & Dr. Who | Two Tesla Coils](https://www.youtube.com/watch?v=H5xSYNFNEjI)
 
+
 ## Other strange hardware
 
 - [Super Mario Theme | Four calculators](https://www.youtube.com/watch?v=vCWJoGSmrM8)
@@ -58,5 +64,7 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 - [Instane robots playing music](https://www.youtube.com/watch?v=rwh_acqT6J0)
 
 # Opensource projects
+
+- [AI Piano Duet](https://www.youtube.com/watch?time_continue=91&v=0ZE1bfPtvZo)
 
 Nothing to show for now, contribute!
