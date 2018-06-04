@@ -34,7 +34,9 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 - [Solo: battery | three robotic arms](https://www.youtube.com/watch?v=qPT0TNj-YRk)
 - [Robotic arms band](https://www.youtube.com/watch?v=bAdqazixuRY)
 - [Compressorhead Blitzkrieg Bop](https://youtu.be/WqE9zIp0Muk)
+- [Robot playing the guitar](https://www.youtube.com/watch?v=bAdqazixuRY)
 - [Battle of the Robot Music Bands: Z Machines vs Compressorhead] (https://www.youtube.com/watch?v=h0DyYLLf3m8)
+
 
 ## Tesla coil
 
