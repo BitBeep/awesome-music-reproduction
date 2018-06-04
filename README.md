@@ -32,6 +32,7 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 - [Pomp and circumstance | Toyota robot violin solo](https://www.youtube.com/watch?v=yhGg6WhmBJI)
 - [Solo: battery | three robotic arms](https://www.youtube.com/watch?v=qPT0TNj-YRk)
 - [Robotic arms band](https://www.youtube.com/watch?v=bAdqazixuRY)
+- [Robot playing bass](https://github.com/FreeTax/awesome-music-reproduction.git)
 
 ## Tesla coil
 
