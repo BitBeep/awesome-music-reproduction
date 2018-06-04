@@ -32,6 +32,7 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 - [Pomp and circumstance | Toyota robot violin solo](https://www.youtube.com/watch?v=yhGg6WhmBJI)
 - [Solo: battery | three robotic arms](https://www.youtube.com/watch?v=qPT0TNj-YRk)
 - [Robotic arms band](https://www.youtube.com/watch?v=bAdqazixuRY)
+- [Battle of the Robot Music Bands: Z Machines vs Compressorhead] (https://www.youtube.com/watch?v=h0DyYLLf3m8)
 
 ## Tesla coil
 
@@ -44,7 +45,6 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 - [Simphony 9, Beethoven | Two Tesla coils](https://www.youtube.com/watch?v=Gd8Xckc536o)
 - [The Final Countdown | Two Tesla Coils](https://www.youtube.com/watch?v=pyTC0Ggufak)
 - [William tell Overture | Two Tesla Coils](https://www.youtube.com/watch?v=1xVh_IgYtuA)
-
  
 ## Other strange hardware
 
