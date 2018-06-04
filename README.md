@@ -49,6 +49,7 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 - [Simphony 9, Beethoven | Two Tesla coils](https://www.youtube.com/watch?v=Gd8Xckc536o)
 - [The Final Countdown | Two Tesla Coils](https://www.youtube.com/watch?v=pyTC0Ggufak)
 - [William tell Overture | Two Tesla Coils](https://www.youtube.com/watch?v=1xVh_IgYtuA)
+- [Star Wars & Dr. Who | Two Tesla Coils](https://www.youtube.com/watch?v=H5xSYNFNEjI)
 
 
 ## Other strange hardware
