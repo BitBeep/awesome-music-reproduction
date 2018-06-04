@@ -22,6 +22,7 @@ Videos and project of awesome music reproduction. Floppy disk drives, HHDs, robo
 - [ Ghostbusters | Floppy drives and hard disks](https://www.youtube.com/watch?v=0XhxUT9vWCg)  
 - [ Star Wars Vader's Theme | Floppy drives](https://www.youtube.com/watch?v=LdgzsF_O7oI)
 - [ Tetris | Floppy drives and hard disks](https://www.youtube.com/watch?v=8fh1CIupVXU)
+- [ Seven Nation Army | Hardware Orchestra](https://www.youtube.com/watch?v=FH9yt8qTACw)
 
 ## Robots playing music
 - [Little Talks | Lego Mindstorm Guitar Cover](https://www.youtube.com/watch?v=cXgB3lIvPHI)
